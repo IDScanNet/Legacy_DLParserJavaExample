@@ -1,5 +1,9 @@
+# [DEPRECATED] Driver License Parser Library for Java
 
-# Driver License Parser Library for Java
+**Note: This repository was deprecated. Please, check our new [Java-Parsing-SDK](https://github.com/IDScanNet/Java-Parsing-SDK-Sample)**
+
+## Description
+
 This project demonstrates how to use **Driver License Parser library for Java** from [IDScan.net](https://idscan.net/).
 
 ## Installation
